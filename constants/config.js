@@ -1,0 +1,1 @@
+export const urlApi = "http://5e52260bd90e6c0014990fca.mockapi.io/";
